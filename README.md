@@ -1,6 +1,6 @@
 Hello, this is **Ihsan**
 
-I am a Senior Platform Engineer at [Opsgenie, Atlassian](https://www.opsgenie.com).
+I am a Senior Platform Engineer
 
 I worked on different programming areas from Avionics to SRE. Some of my main interests are Cloud Computing, DevOps, Java, IoT. 
 
